@@ -6,7 +6,7 @@ A safe, anonymous women's health community MVP built with React, Tailwind CSS, a
 
 ✅ **Community Feed** - Browse questions from sisters in the community
 ✅ **Ask a Question** - Post questions anonymously or with your name
-✅ **Category Filtering** - Filter by Periods, Mental Health, Sexual Health, Pregnancy, General
+✅ **Category Filtering** - Filter by Periods, Hormonal Changes, Mental Health, Pregnancy, General
 ✅ **Doctor Badge System** - Verified health professionals have highlighted replies
 ✅ **Anonymous Support** - Complete anonymity option for all posts
 ✅ **Peer Support Replies** - Connect and support each other
@@ -86,7 +86,7 @@ src/
 
 ### Ask a Question
 - Simple form with title and description
-- Category selection (Periods, Mental Health, Sexual Health, Pregnancy, General)
+- Category selection (Periods, Hormonal Changes, Mental Health, Pregnancy, General)
 - Anonymous posting toggle
 - Optional username if posting with name
 

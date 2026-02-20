@@ -3,10 +3,10 @@ import { Badge, Heart } from 'lucide-react';
 export default function QuestionCard({ question, onClick }) {
   const categoryColors = {
     'Periods': 'bg-pink-100 text-pink-700',
+    'Hormonal Changes': 'bg-orange-100 text-orange-700',
     'Mental Health': 'bg-purple-100 text-purple-700',
-    'Sexual Health': 'bg-blue-100 text-blue-700',
-    'General': 'bg-gray-100 text-gray-700',
     'Pregnancy': 'bg-amber-100 text-amber-700',
+    'General': 'bg-gray-100 text-gray-700',
   };
 
   const timeAgo = (date) => {

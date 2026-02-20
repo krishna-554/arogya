@@ -62,8 +62,8 @@ export default function AskQuestion({ onSubmit, user }) {
               className="w-full px-4 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-terracotta"
             >
               <option value="Periods">Periods</option>
+              <option value="Hormonal Changes">Hormonal Changes</option>
               <option value="Mental Health">Mental Health</option>
-              <option value="Sexual Health">Sexual Health</option>
               <option value="Pregnancy">Pregnancy</option>
               <option value="General">General</option>
             </select>

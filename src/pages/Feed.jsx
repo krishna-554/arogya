@@ -1,7 +1,7 @@
 import QuestionCard from '../components/QuestionCard';
 
 export default function Feed({ questions, selectedCategory, onSelectCategory, onSelectQuestion }) {
-  const categories = ['Periods', 'Mental Health', 'Sexual Health', 'Pregnancy', 'General'];
+  const categories = ['Periods', 'Hormonal Changes', 'Mental Health', 'Pregnancy', 'General'];
 
   return (
     <div className="pb-40">

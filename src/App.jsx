@@ -56,9 +56,9 @@ function App() {
     },
     {
       id: 3,
-      title: 'Questions about birth control options',
-      description: 'Looking for different birth control methods. What\'s everyone\'s experience with different options?',
-      category: 'Sexual Health',
+      title: 'Managing hormonal fluctuations',
+      description: 'I\'ve noticed my mood and energy levels change throughout my cycle. Is this normal? Any tips on managing hormonal changes?',
+      category: 'Hormonal Changes',
       author: 'Anonymous Sister',
       isAnonymous: true,
       createdAt: new Date(Date.now() - 7 * 24 * 60 * 60 * 1000),
